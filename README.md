@@ -1,8 +1,11 @@
 # Customer and Products Dashboard
 
-🌟 Global Superstore Customer and Products Dashboard Dashboard 🌟
-Welcome to the Global Superstore Sales Dashboard project! 
-This dashboard provides deep insights into sales trends, product performance, and customer behavior using the Global Superstore dataset. Created using Power BI, this project employs advanced analytics to drive business decisions.
+🌟 Power BI eCommerce Analytics Project 🌟
+Welcome to the Power BI eCommerce Analytics Project! This project showcases a comprehensive analysis of an eCommerce business's sales performance, leveraging the powerful visualization capabilities of Power BI. Explore insightful dashboards and uncover key trends, patterns, and opportunities to drive your business forward
+
+🔍 Overview
+This project provides a deep dive into various aspects of an eCommerce business, from sales forecasting to customer analysis. It aims to help businesses optimize their strategies, improve forecasting accuracy, and make data-driven decisions.
+
 
 📂 Dataset
 The dataset used in this project is the Global Superstore dataset, which includes comprehensive details on sales, customers, products, and geographical regions.
@@ -40,25 +43,79 @@ Average Shipping Time
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 
-💡 Key Insights
-1. Customer Insights
-Top Performing Markets: APAC and EU lead in sales.
-Segment Performance: Consumer segment is the highest contributor to sales.
+💡 Key Insights - Dashboards & Visualizations
 
-2. Product Insights
-Top Profitable Sub-Categories: Copiers and Phones drive the highest profits.
-Shipping Efficiency: Standard shipping mode is the most utilized.
+📈 Pareto Analysis (Sales) 
+Summary:
+This image shows a Pareto analysis of sales by product category, displaying both individual sales amounts and cumulative percentages.
 
-3. Sales Trends
-Sales by Category: Technology category has the highest sales and profit.
-Order Patterns: High order volumes observed for Staples and other office supplies.
+Highlights:
 
-4. Profitability
-High-Profit Products: Canon and Cisco products are leading in profit margins.
-Category Analysis: Steady profit contribution from Technology and Office Supplies.
+Product categories ranked by sales value
+Cumulative sales percentage line
+Top-selling categories identified
+Visual representation of the 80/20 rule
 
-Conclusion
-These dashboards provide comprehensive insights into customer behavior, product performance, and profitability. They are essential tools for driving data-driven decisions and strategic planning.
+
+📈 Sales Forecast Analysis 
+Summary:
+This chart presents a sales forecast analysis, showing historical sales data and projected future sales.
+
+Highlights:
+
+Monthly sales trends over multiple years
+Clear visualization of seasonal patterns
+Forecasted sales for future periods
+Ability to filter by country, segment, and category
+
+
+📈 Product Analysis 
+Summary:
+This dashboard provides a comprehensive view of product performance, including profitability by category and detailed product information.
+
+Highlights:
+
+Profit by category chart
+Detailed product list with order count and profit
+Sub-category selection options
+Year and segment filters
+
+
+📈 Customer Analysis 
+Summary:
+This image displays various aspects of customer analysis, including sales by market and top customers.
+
+Highlights:
+
+Sales distribution across different markets
+Top 10 customers by sales volume
+Customer segment sales comparison
+Total customer count and number of segments
+
+
+📈 Sales Analysis 
+Summary:
+This dashboard offers an overview of sales performance, including key metrics and trends.
+
+Highlights:
+
+Key performance indicators (KPIs) for sales and profit
+Monthly sales and profit margin trends
+Orders by weekday distribution
+Profit margin trend by year
+
+
+💼 Use Cases for Businesses
+Identify top-performing products and focus marketing efforts
+Optimize inventory management based on sales trends
+Develop targeted strategies for different customer segments
+Improve forecasting accuracy for better resource allocation
+Analyze market performance to guide expansion decisions
+Identify underperforming products or categories for improvement or discontinuation
+Tailor customer service approaches based on customer value
+Optimize pricing strategies to improve profit margins
+Plan staffing and resources based on sales patterns by day of the week
+Track and improve overall business performance using key metrics
 
 
 Explore more data visualization projects in my [BI portfolio](https://my.novypro.com/elvisramirez)
