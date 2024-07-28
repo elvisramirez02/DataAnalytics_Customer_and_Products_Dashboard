@@ -1,7 +1,6 @@
-# Customer and Products Dashboard
-
 🌟 Power BI eCommerce Analytics Project 🌟
-Welcome to the Power BI eCommerce Analytics Project! This project showcases a comprehensive analysis of an eCommerce business's sales performance, leveraging the powerful visualization capabilities of Power BI. Explore insightful dashboards and uncover key trends, patterns, and opportunities to drive your business forward
+Welcome to the Power BI eCommerce Analytics Project! T
+his project showcases a comprehensive analysis of an eCommerce business's sales performance, leveraging the powerful visualization capabilities of Power BI. Explore insightful dashboards and uncover key trends, patterns, and opportunities to drive your business forward
 
 🔍 Overview
 This project provides a deep dive into various aspects of an eCommerce business, from sales forecasting to customer analysis. It aims to help businesses optimize their strategies, improve forecasting accuracy, and make data-driven decisions.
